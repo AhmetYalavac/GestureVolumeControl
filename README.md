@@ -1,0 +1,1 @@
+This Python code includes a tool that utilizes the MediaPipe library to detect hand and hand landmark positions. This enables the manual adjustment of the system's audio volume by measuring the distance between landmark points through the camera.
